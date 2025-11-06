@@ -1,4 +1,4 @@
-#My First AI Project
-This project predicts student marks using PyTorch.
-Tools used:Python,Google Colab,PyTorch.
-Created by Reshma Simrin.
+# Math Quiz App
+A simple Python program that gives math questions for students.
+- Built using Python
+- Beginner-friendly
